@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "406364484091",
+    "firebase_url": "https://insta-translate-40ad9.firebaseio.com",
+    "project_id": "insta-translate-40ad9",
+    "storage_bucket": "insta-translate-40ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406364484091:android:0904f927d48ae7d7",
+        "android_client_info": {
+          "package_name": "finalproject.mae.maptranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406364484091-rgmvmt1i1bpne6r3afcvlitr8odb1ndk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "finalproject.mae.maptranslate",
+            "certificate_hash": "7fa2453fa96bbc074c100813e575aad22ddf6ba6"
+          }
+        },
+        {
+          "client_id": "406364484091-hf8d15dfbg0fukb2auecclqq70u5dfem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0gVIhYHFpvqDi0We4S6A1E2nKtwePwiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406364484091-hf8d15dfbg0fukb2auecclqq70u5dfem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
